@@ -21,6 +21,12 @@ Unityで開発された、スマホ向けの無料アプリです。
 
 ---
 
+## Google Play
+
+https://play.google.com/store/apps/details?id=com.sugepan.jongclock&hl=ja
+
+---
+
 ## ライセンス
 
 MIT License  
